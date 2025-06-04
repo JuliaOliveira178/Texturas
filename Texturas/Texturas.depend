@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1748993646 source:c:\users\davi\documentos\opengl\texturas\src\sprite.cpp
+	"Sprite.h"
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"../src/stb_image.h"
+	<iostream>
+
+1748992298 c:\users\davi\documentos\opengl\texturas\include\sprite.h
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<string>
+
+1748987909 c:\users\davi\documentos\opengl\texturas\src\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1748994751 source:c:\users\davi\documentos\opengl\texturas\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<iostream>
+	<vector>
+	"../src/stb_image.h"
+	"include\Sprite.h"
+
